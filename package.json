@@ -1,0 +1,14 @@
+{
+  "name": "do-it-for-me",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal toolkit for a fresher starting corporate life. Offline, with a hand-off to any AI app on the phone.",
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
+    "@capacitor/share": "^6.0.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.0"
+  }
+}
